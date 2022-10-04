@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital@1&display=swap');
+*{
+    font-family: 'Comic Neue', cursive;
+    font-size: bolder;
+}
+.cards{
+    margin-left: 10px;
+    border-radius: 2px;
+    display: flex;
+    content-visibility: 2px;
+}
+
+@media (max-width:600px){
+  .cards{
+    display: block;
+  }
+
+}
