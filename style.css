@@ -14,5 +14,17 @@
   .cards{
     display: block;
   }
-
+  #imagem img{
+    height: 500px;
+  }
+  
+}
+#nav img{
+    margin-left: 34px;
+}
+.container{
+  background-color: rgb(250, 227, 215);
+  color: rgb(238, 158, 18);
+  border-color:red;
+  
 }
